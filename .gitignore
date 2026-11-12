@@ -1,0 +1,28 @@
+# Secrets
+.env
+*.key
+
+# Private data
+*.xlsx
+*.xls
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Node
+node_modules/
+
+# Editors / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store

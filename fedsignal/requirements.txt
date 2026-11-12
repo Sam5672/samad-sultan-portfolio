@@ -1,0 +1,17 @@
+# Core model + API
+torch
+transformers
+accelerate>=1.1.0
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+# Data collection (notebooks)
+fredapi
+yfinance
+requests
+beautifulsoup4
+pdfplumber
+sentence-transformers
+matplotlib
